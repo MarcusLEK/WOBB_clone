@@ -25,13 +25,13 @@ $ flutter run
 ```
 
 # Screenshots
-<img src="screenshots/jobcardscreen.png" height="250">
-<img src="screenshots/companycardscreen.png" height="250">
-<img src="screenshots/chatscreen.png" height="250">
-<img src="screenshots/savedscreen.png" height="250">
-<img src="screenshots/profilescreen.png" height="250">
+<img src="screenshots/jobcardscreen.png" height="350">
+<img src="screenshots/companycardscreen.png" height="350">
+<img src="screenshots/chatscreen.png" height="350">
+<img src="screenshots/savedscreen.png" height="350">
+<img src="screenshots/profilescreen.png" height="350">
 
 # Issues Faced
-## 1. Blurred background not able to be circular
-## 2. Not able to add another nav bar below the search tab on the saved tab
+ 1. Blurred background not able to be circular
+ 2. Not able to add another nav bar below the search tab on the saved tab
 
