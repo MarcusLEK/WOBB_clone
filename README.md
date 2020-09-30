@@ -25,11 +25,11 @@ $ flutter run
 ```
 
 # Screenshots
-<img src="screenshots/jobcardscreen.png">
-<img src="screenshots/companycardscreen.png">
-<img src="screenshots/chatscreen.png">
-<img src="screenshots/savedscreen.png">
-<img src="screenshots/profilescreen.png">
+<img src="screenshots/jobcardscreen.png" height="250">
+<img src="screenshots/companycardscreen.png" height="250">
+<img src="screenshots/chatscreen.png" height="250">
+<img src="screenshots/savedscreen.png" height="250">
+<img src="screenshots/profilescreen.png" height="250">
 
 # Issues Faced
 ## 1. Blurred background not able to be circular
