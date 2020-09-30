@@ -23,3 +23,15 @@ To run the application just, type the following command:
 ```
 $ flutter run
 ```
+
+# Screenshots
+<img src="screenshots/jobcardscreen.png">
+<img src="screenshots/companycardscreen.png">
+<img src="screenshots/chatscreen.png">
+<img src="screenshots/savedscreen.png">
+<img src="screenshots/profilescreen.png">
+
+# Issues Faced
+## 1. Blurred background not able to be circular
+## 2. Not able to add another nav bar below the search tab on the saved tab
+
